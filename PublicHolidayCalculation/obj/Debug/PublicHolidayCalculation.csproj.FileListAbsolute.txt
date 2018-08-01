@@ -1,0 +1,9 @@
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\bin\Debug\PublicHolidayCalculation.exe.config
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\bin\Debug\PublicHolidayCalculation.exe
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\bin\Debug\PublicHolidayCalculation.pdb
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\bin\Debug\Nager.Date.dll
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\obj\Debug\PublicHolidayCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\obj\Debug\PublicHolidayCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\obj\Debug\PublicHolidayCalculation.csproj.CopyComplete
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\obj\Debug\PublicHolidayCalculation.exe
+C:\Users\Ronan\source\repos\PublicHolidayCalculation\PublicHolidayCalculation\obj\Debug\PublicHolidayCalculation.pdb
